@@ -90,14 +90,6 @@ This tool can be adapted for:
 
 ---
 
-## 🧩 Future Improvements
-
-- Joint prediction of **AQI and temperature**
-- Integration with **real-time data streams**
-- Model generalization to **global datasets**
-- Deployment as a **web service or API**
-
----
 
 ## 👩‍💻 Authors
 
