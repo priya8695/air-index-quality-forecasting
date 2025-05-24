@@ -1,6 +1,6 @@
 
 
-# 🌫️ Air Quality Index (AQI) Forecasting with Deep Learning
+# Air Quality Index (AQI) Forecasting with Deep Learning
 
 A collaborative project focused on forecasting the Air Quality Index (AQI) using a hybrid deep learning model combining **BiLSTM**, **CNN**, and **Attention Mechanisms**. This system is designed to accurately predict AQI levels across major Indian cities using time-series pollutant data.
 
